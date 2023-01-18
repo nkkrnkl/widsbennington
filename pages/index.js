@@ -20,10 +20,10 @@ export default function Home() {
         
         <h3>WiDS Bennington encourages people to get out of their comfort zone and try something NEW.</h3>
         
-        <h3>Coming Events</h3> 
+        <h4>Coming Events</h4> 
         
         <p className="list">
-          <dl>
+          <dl className="list">
             <dt>1. Datathon Workshop</dt>
             <dd>Saturday 25th of February Learn how to use Data Science to Improving Extreme Weather Forecasts with 
               <a href="https://www.kaggle.com/competitions/widsdatathon2023"> WiDS Datathon 2023 </a> 
