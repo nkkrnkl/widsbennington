@@ -11,11 +11,23 @@ export default function Home() {
 
       <main>
         <Header title="WiDS Bennington" />
-        <h2> Mission </h2>
+        <h3> Mission </h3>
         <p className="description">
           <a href="https://www.widsconference.org/">Women in Data Science (WiDS)</a>
           elevates women in the field by providing inspiration, education, community, and support.
         </p>
+        <h3>WiDS Bennington encourages people to get out of their comfort zone and try something NEW.</h3>
+        <h3>Coming Events</h3> 
+        <dl>
+          <dt>1. Datathon Workshop</dt>
+            <dd>Saturday 25th of February Learn how to use Data Science to Improving Extreme Weather Forecasts with 
+                <a href="https://www.kaggle.com/competitions/widsdatathon2023">WiDS Datathon 2023</a> 
+                challenge. All levels are welcome to participate. 
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfH7sbClZiz0Q_XnzqDbqk-ulFwKGxWjJAYPspHN_Xfyw0wqg/viewform?usp=sf_link">Register here now.</a> 
+            </dd>
+          <dt>2. Data Science Conference</dt>
+            <dd>more info coming soon...</dd>
+        </dl>
   
       </main>
 
