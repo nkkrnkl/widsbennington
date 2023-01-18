@@ -12,13 +12,16 @@ export default function Home() {
       <main>
         <Header title="WiDS Bennington" />
         <h3> Mission </h3>
+        <hr>
         <p className="description">
           <a href="https://www.widsconference.org/">Women in Data Science (WiDS)</a>
           elevates women in the field by providing inspiration, education, community, and support.
         </p>
+        <hr>
         <h3>WiDS Bennington encourages people to get out of their comfort zone and try something NEW.</h3>
+        <hr>
         <h3>Coming Events</h3> 
-        
+        <hr>
         <p className="list">
           <dl>
             <dt>1. Datathon Workshop</dt>
