@@ -5,8 +5,8 @@ export default function Footer() {
     <>
       
       <footer className={styles.footer}>
-        <a href="https://www.linkedin.com/company/wids-bennington/"><img src="https://image.pngaaa.com/455/4900455-middle.png" alt="LinkedIn icon" width="50" height="50"/></a>
-        <a href = "mailto: nikikaranikola@bennington.edu"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1xEsBxwZJLrWhphY8pGNfMotiq8UcnMDbg&usqp=CAU" alt="LinkedIn icon" width="50" height="50"/></a>   
+        <a href="https://www.linkedin.com/company/wids-bennington/"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png-white.png" alt="LinkedIn icon" width="50" height="50"/></a>
+        <a href = "mailto: nikikaranikola@bennington.edu"><img src="https://i.pinimg.com/originals/50/06/dc/5006dc7319d99a139727482e4d75b1f2.jpg" alt="LinkedIn icon" width="50" height="50"/></a>   
       
         @ 2023 Niki Karanikola. All Rights Reserved.
       </footer>
