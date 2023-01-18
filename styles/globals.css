@@ -35,5 +35,6 @@ code {
 }
 
 .list {
+  margin: 70%;
   align-items: center;
 }
