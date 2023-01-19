@@ -7,6 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>WiDS Bennington</title>
+        <link rel="icon" href="/wids-black-stacked.png" />
       </Head>
 
       <main>
