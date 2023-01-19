@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="WiDS Bennington" />
+        <Header/>
         
         <h3> Mission </h3>
         <p className="description">
