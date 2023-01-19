@@ -13,7 +13,6 @@ export default function Home() {
       <main>
         <Header/>
         
-//         <h3> Mission </h3>
         <p className="description">
           <h3> Mission </h3>
           <a href="https://www.widsconference.org/">Women in Data Science (WiDS)</a>
@@ -24,7 +23,6 @@ export default function Home() {
         
         
         <p className="list">
-          
           <dl className="list">
             <h4>Coming Events</h4> 
             <dt>1. Datathon Workshop</dt>
