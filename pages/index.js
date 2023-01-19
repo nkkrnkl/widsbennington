@@ -13,8 +13,9 @@ export default function Home() {
       <main>
         <Header/>
         
-        <h3> Mission </h3>
+//         <h3> Mission </h3>
         <p className="description">
+          <h3> Mission </h3>
           <a href="https://www.widsconference.org/">Women in Data Science (WiDS)</a>
           elevates women in the field by providing inspiration, education, community, and support.
         </p>
@@ -23,8 +24,9 @@ export default function Home() {
         
         
         <p className="list">
-          <h4>Coming Events</h4> 
+          
           <dl className="list">
+            <h4>Coming Events</h4> 
             <dt>1. Datathon Workshop</dt>
             <dd>Saturday 25th of February Learn how to use Data Science to Improving Extreme Weather Forecasts with 
               <a href="https://www.kaggle.com/competitions/widsdatathon2023"> WiDS Datathon 2023 </a> 
