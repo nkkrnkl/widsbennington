@@ -19,18 +19,18 @@ export default function Home() {
           elevates women in the field by providing inspiration, education, community, and support.
         </p>
         
-        <h3>
-            WiDS Bennington is an independent event that is organized by Niki Karanikola and other Bennington College students 
+        <h4 className="bio">
+            WiDS Bennington is an independent event that is organized by Niki Karanikola, Mohammad Tanvir, and other Bennington College students 
             as part of the annual WiDS Worldwide conference organized by Stanford University and an estimated 200+ locations worldwide, 
             which features outstanding women doing outstanding work in the field of data science. 
             All genders are invited to attend all WiDS Worldwide conference events. 
             WiDS Bennington encourages people to get out of their comfort zone and try something NEW. 
-        </h3>
+        </h4>
         
         
         <p className="list">
           <dl className="list">
-            <h4>Coming Events</h4> 
+            <h3>Coming Events</h4> 
             <dt className="title">1. Datathon Workshop</dt>
             <dd>Saturday 25th of February Learn how to use Data Science to Improving Extreme Weather Forecasts with 
               <a href="https://www.kaggle.com/competitions/widsdatathon2023"> WiDS Datathon 2023 </a> 
