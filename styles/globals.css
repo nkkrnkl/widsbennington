@@ -16,8 +16,6 @@ main {
   flex: 1;
   display: flex;
   flex-direction: column;
-/*   justify-content: center;
-  align-items: center; */
 }
 
 .container {
@@ -25,8 +23,7 @@ main {
   margin: 0 20% 0 20%;
   display: flex;
   flex-direction: column;
-/*   justify-content: center;
-  align-items: center; */
+
 }
 
 .title {
@@ -34,6 +31,6 @@ main {
 }
 
 .bio {
-  letter-spacing: 0.1em;
+  line-height: 0.1em;
 }
 
