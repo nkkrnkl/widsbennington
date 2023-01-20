@@ -31,12 +31,12 @@ export default function Home() {
         <p className="list">
           <dl className="list">
             <h4>Coming Events</h4> 
-            <dt>1. Datathon Workshop</dt>
+            <dt className="title">1. Datathon Workshop</dt>
             <dd>Saturday 25th of February Learn how to use Data Science to Improving Extreme Weather Forecasts with 
               <a href="https://www.kaggle.com/competitions/widsdatathon2023"> WiDS Datathon 2023 </a> 
               challenge. All levels are welcome to participate. 
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSfH7sbClZiz0Q_XnzqDbqk-ulFwKGxWjJAYPspHN_Xfyw0wqg/viewform?usp=sf_link"> Register here now.</a></dd>
-            <dt>2. Data Science Conference</dt>
+            <dt className="title">2. Data Science Conference</dt>
             <dd>more info coming soon...</dd>
           </dl>
            
