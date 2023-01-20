@@ -14,12 +14,18 @@ export default function Home() {
         <Header/>
         
         <p className="description">
-          <h3> Mission </h3>
+          <h3> WiDS Mission </h3>
           <a href="https://www.widsconference.org/">Women in Data Science (WiDS)</a>
           elevates women in the field by providing inspiration, education, community, and support.
         </p>
         
-        <h3>WiDS Bennington encourages people to get out of their comfort zone and try something NEW.</h3>
+        <h3>
+            WiDS Bennington is an independent event that is organized by Niki Karanikola and other Bennington College students 
+            as part of the annual WiDS Worldwide conference organized by Stanford University and an estimated 200+ locations worldwide, 
+            which features outstanding women doing outstanding work in the field of data science. 
+            All genders are invited to attend all WiDS Worldwide conference events. 
+            WiDS Bennington encourages people to get out of their comfort zone and try something NEW. 
+        </h3>
         
         
         <p className="list">
