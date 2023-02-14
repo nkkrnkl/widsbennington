@@ -49,8 +49,6 @@ fireside chats, and networking. <a href="https://www.eventbrite.com/e/women-in-d
             <a href="https://www.instagram.com/widsbenn23/"><img src="https://www.pngfind.com/pngs/m/2-23339_black-and-white-instagram-logo-instagram-logo-2018.png"></a>
             <a href="https://www.facebook.com/widsbennington23"><img src="https://www.pngfind.com/pngs/m/57-579617_facebook-logo-circle-black-transparent-social-media-icons.png"></a>
             <a href="mailto:nikikaranikola@bennington.edu"><img src="https://w7.pngwing.com/pngs/111/717/png-transparent-computer-icons-gmail-google-logo-gmail-angle-text-triangle.png"></a>
-
-          
         </p>
         
   
