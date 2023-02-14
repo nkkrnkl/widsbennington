@@ -38,7 +38,8 @@ export default function Home() {
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSfH7sbClZiz0Q_XnzqDbqk-ulFwKGxWjJAYPspHN_Xfyw0wqg/viewform?usp=sf_link"> Register here now.</a></dd>
             <dt className="title">2. Data Science Conference</dt>
             <dd>On Wednesday 8th of March join us at 11.00 am to 4.35 pm in Bennington College, CAPA Symposium. You will listen to Stanford Universty's WiDS Conference, which will feature keynotes, technical vision talks,
-fireside chats, and networking. Registration coming soon.
+fireside chats, and networking. <a href="https://www.eventbrite.com/e/women-in-data-science-wids-conference-bennington-2023-tickets-546647867487"> Register here now.</a>
+            </dd>
             </dd>
           </dl>
            
