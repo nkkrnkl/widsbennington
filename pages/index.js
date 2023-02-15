@@ -42,13 +42,12 @@ fireside chats, and networking. Registration coming soon.
             </dd>
           </dl>
         </p>  
-          <a href="https://www.linkedin.com/company/wids-bennington/"><img src="https://toppng.com//public/uploads/preview/linkedin-logo-black-png-linkedin-icon-black-and-white-11562906557v2906x3pr2.png" alt="LinkedIn icon" width="30" height="30"/></a>
-          <a href="https://www.instagram.com/widsbenn23/"><img src="https://www.pngfind.com/pngs/m/2-23339_black-and-white-instagram-logo-instagram-logo-2018.png" alt="Instagram icon" width="30" height="30"/></a>
-          <a href="https://www.facebook.com/widsbennington23/"><img src="https://www.pngfind.com/pngs/m/57-579617_facebook-logo-circle-black-transparent-social-media-icons.png" alt="Facebook icon" width="30" height="30"/></a>
-          <a href = "mailto: nikikaranikola@bennington.edu"><img src="https://e7.pngegg.com/pngimages/818/690/png-clipart-email-computer-icons-gmail-email-miscellaneous-angle-thumbnail.png" alt="Gmail icon" width="60" height="60"/></a>   
+             
         <p>
-          
-           
+          <a href="https://www.linkedin.com/company/wids-bennington/"><img src="/linkedin.png" alt="LinkedIn icon" width="30" height="30"/></a>
+          <a href="https://www.instagram.com/widsbenn23/"><img src="/instagram.png" alt="Instagram icon" width="30" height="30"/></a>
+          <a href="https://www.facebook.com/widsbennington23/"><img src="/facebook.png" alt="Facebook icon" width="30" height="30"/></a>
+          <a href = "mailto: nikikaranikola@bennington.edu"><img src="/mail.png" alt="Gmail icon" width="60" height="60"/></a>        
         </p>
         
   
