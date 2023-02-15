@@ -43,14 +43,7 @@ fireside chats, and networking. <a href="https://www.eventbrite.com/e/5466478674
           </dl>
         </p>  
              
-        <p>
-          <a href="https://www.linkedin.com/company/wids-bennington/"><img src="/linkedin.png" alt="LinkedIn icon" width="30" height="30"/></a>
-          <a href="https://www.instagram.com/widsbenn23/"><img src="/instagram.png" alt="Instagram icon" width="30" height="30"/></a>
-          <a href="https://www.facebook.com/widsbennington23/"><img src="/facebook.png" alt="Facebook icon" width="30" height="30"/></a>
-          <a href = "mailto: nikikaranikola@bennington.edu"><img src="/mail.png" alt="Gmail icon" width="30" height="30"/></a>        
-        </p>
-        
-  
+       
       </main>
 
       <Footer />
