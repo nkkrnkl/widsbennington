@@ -24,7 +24,7 @@ export default function Home() {
             as part of the annual WiDS Worldwide conference organized by Stanford University and an estimated 200+ locations worldwide, 
             which features outstanding women doing outstanding work in the field of data science. 
             All genders are invited to attend all WiDS Worldwide conference events. 
-            WiDS Bennington encourages people to get out of their comfort zone and try something NEW. 
+            WiDS Bennington encourages people to get out of their comfort zone and try something new. 
         </h4>
         
         
