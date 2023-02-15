@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
           <div className={styles.logo}>
-            <a href="https://www.linkedin.com/company/wids-bennington/"><img src="/linkedin.png" alt="LinkedIn icon" width="30" height="30"/></a>
+            <a href="https://www.linkedin.com/company/wids-bennington/"><img src="/linkedin.png" alt="LinkedIn icon" width="25" height="25"/></a>
           </div>
           <div className={styles.logo}>
             <a href="https://www.instagram.com/widsbenn23/"><img src="/instagram.png" alt="Instagram icon" width="25" height="25"/></a>
