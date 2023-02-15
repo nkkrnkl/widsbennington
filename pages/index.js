@@ -38,7 +38,7 @@ export default function Home() {
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSfH7sbClZiz0Q_XnzqDbqk-ulFwKGxWjJAYPspHN_Xfyw0wqg/viewform?usp=sf_link"> Register here now.</a></dd>
             <dt className="title">2. Data Science Conference</dt>
             <dd>On Wednesday 8th of March join us at 11.00 am to 4.35 pm in Bennington College, CAPA Symposium. You will listen to Stanford Universty's WiDS Conference, which will feature keynotes, technical vision talks,
-fireside chats, and networking. Registration coming soon.
+fireside chats, and networking. <a href="https://www.eventbrite.com/e/546647867487/preview/"> Register here now.</a>
             </dd>
           </dl>
         </p>  
@@ -47,7 +47,7 @@ fireside chats, and networking. Registration coming soon.
           <a href="https://www.linkedin.com/company/wids-bennington/"><img src="/linkedin.png" alt="LinkedIn icon" width="30" height="30"/></a>
           <a href="https://www.instagram.com/widsbenn23/"><img src="/instagram.png" alt="Instagram icon" width="30" height="30"/></a>
           <a href="https://www.facebook.com/widsbennington23/"><img src="/facebook.png" alt="Facebook icon" width="30" height="30"/></a>
-          <a href = "mailto: nikikaranikola@bennington.edu"><img src="/mail.png" alt="Gmail icon" width="60" height="60"/></a>        
+          <a href = "mailto: nikikaranikola@bennington.edu"><img src="/mail.png" alt="Gmail icon" width="30" height="30"/></a>        
         </p>
         
   
