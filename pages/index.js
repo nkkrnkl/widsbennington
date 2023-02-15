@@ -42,8 +42,10 @@ fireside chats, and networking. Registration coming soon.
             </dd>
           </dl>
         </p>  
-          <a href="https://www.linkedin.com/company/wids-bennington/"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png-white.png" alt="LinkedIn icon" width="30" height="30"/></a>
-          <a href = "mailto: nikikaranikola@bennington.edu"><img src="https://i.pinimg.com/originals/50/06/dc/5006dc7319d99a139727482e4d75b1f2.jpg" alt="LinkedIn icon" width="60" height="60"/></a>   
+//           <a href="https://www.linkedin.com/company/wids-bennington/"><img src="" alt="LinkedIn icon" width="30" height="30"/></a>
+//           <a href="https://www.instagram.com/widsbenn23/"><img src="" alt="Instagram icon" width="30" height="30"/></a>
+          <a href="https://www.facebook.com/widsbennington23/"><img src="https://www.pngfind.com/pngs/m/57-579617_facebook-logo-circle-black-transparent-social-media-icons.png" alt="Facebook icon" width="30" height="30"/></a>
+//           <a href = "mailto: nikikaranikola@bennington.edu"><img src="" alt="Gmail icon" width="60" height="60"/></a>   
         <p>
           
            
